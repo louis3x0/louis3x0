@@ -3,7 +3,7 @@
 Hello, my name is Louis.
 I am from Romania, and I love to create beautiful web interfaces.
 
-![views](https://komarev.com/ghpvc/?username=louis3x0&label=Profile%20views&color=#000000&style=flat)
+![views](https://komarev.com/ghpvc/?username=louis3x0&label=Profile%20views&color=#ffa500&style=flat)
 
 ### Languages & Tools
 
