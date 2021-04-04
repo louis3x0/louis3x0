@@ -13,7 +13,7 @@ I am from Romania, and I love to create beautiful web interfaces.
 
 ### Languages & Tools
 
-![expressjs](static/expressjs.svg) ![heroku](static/heroku.svg) ![illustrator](static/illustrator.svg) ![javascript](static/javascript.svg) ![knexjs](static/knexjs.svg) ![nodejs](static/nodejs.svg) ![photoshop](static/photshop.svg) ![postgresql](static/postgresql.svg) ![postman](static/postman.svg) ![python](static/python.svg) ![react](static/react.svg) ![redux](static/redux.svg) ![sass](static/sass.svg) ![vscode](static/vscode.svg) ![webstorm](static/webstorm.svg) ![xd](static/xd.svg)
+![expressjs](static/expressjs.svg) ![heroku](static/heroku.svg) ![illustrator](static/illustrator.svg) ![javascript](static/javascript.svg) ![nodejs](static/nodejs.svg) ![photoshop](static/photshop.svg) ![postgresql](static/postgresql.svg) ![postman](static/postman.svg) ![python](static/python.svg) ![react](static/react.svg) ![redux](static/redux.svg) ![sass](static/sass.svg) ![vscode](static/vscode.svg) ![webstorm](static/webstorm.svg) ![xd](static/xd.svg)
 
 #### Top Technologies
 
