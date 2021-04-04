@@ -8,7 +8,8 @@ I am from Romania, and I love to create beautiful web interfaces.
 ![views](https://komarev.com/ghpvc/?username=louis3x0&label=Profile%20views&color=ffa500&style=flat)
 
 :mailbox: Reach me out!
-[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4BSq3hETqj8YHafYhVLUnQ) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-sardarescu-8b5a641b4/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/louis404__) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:louisrd1337@gmail.com)
+
+[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4BSq3hETqj8YHafYhVLUnQ) [![Linkedin Badge](https://img.shields.io/badge/-louis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-sardarescu-8b5a641b4/) [![Mail Badge](https://img.shields.io/badge/-@louis404__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/louis404__) [![Mail Badge](https://img.shields.io/badge/-louismail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:louisrd1337@gmail.com)
 
 ### Languages & Tools
 
